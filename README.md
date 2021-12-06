@@ -1,10 +1,16 @@
 # Démineur_casio
-Version : V4.5b Taille : 8304 octets Ajouté le : 2015-11-18 19:10 Modifié le : 2021-12-06 14:30 Calculatrices : Graph 35+USB/75/85/95 (SD) 
 
 Un Démineur full option et sans aucun lag pour calculatrice casio !
 
+- *Version : V4.5b*
+- *Taille : 8304 octets*
+- *Ajouté le : 2015-11-18 19:10*
+- *Modifié le : 2021-12-06 14:30*
+- *Calculatrices : Graph 35+USB/75/85/95 (SD)* 
+
 <img src="https://user-images.githubusercontent.com/38099970/144854732-c418628f-f7e1-4671-8dbc-f2bc73c448b3.gif" width="550px">
-Fonctionnalités :
+
+## Fonctionnalités :
 
 - Régler la taille de la map
 - Personnaliser les contrôles
