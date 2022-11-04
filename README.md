@@ -40,7 +40,7 @@ Jeu du mois de Novembre 2015 : http://www.planet-casio.com/Fr/forums/lecture_suj
 
 ## Notes importantes :
 
-> utilise la liste 25 
-Utilise les str 3,7,10 et 12
-Utilise toute les variables (A~Z + r)
-utilise les matrice A B C et D (libres lorsque le jeu ne tourne pas)
+- Utilise la liste 25 
+- Utilise les str 3,7,10 et 12
+- Utilise toute les variables (A~Z + r)
+- utilise les matrice A B C et D (libres lorsque le jeu ne tourne pas)
