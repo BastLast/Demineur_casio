@@ -36,9 +36,9 @@ Lien de téléchargement : https://www.planet-casio.com/Fr/programmes/programme2
 
 Comment installer un logiciel sur sa calculatrice : https://www.planet-casio.com/Fr/logiciels/voir_un_logiciel_casio.php?showid=16
 
-SECONDE PLACE: au Jeu du mois de Novembre 2015 http://www.planet-casio.com/Fr/forums/lecture_sujet.php?id=14049&page=1#137678
+Jeu du mois de Novembre 2015 : http://www.planet-casio.com/Fr/forums/lecture_sujet.php?id=14049&page=1#137678
 
-**BON JEU !**
+## Notes importantes :
 
 > utilise la liste 25 
 Utilise les str 3,7,10 et 12
